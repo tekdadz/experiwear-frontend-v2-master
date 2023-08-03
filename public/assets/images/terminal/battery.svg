@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="16px" viewBox="0 0 32 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>battery</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Storyboard" transform="translate(-2052.000000, -2700.000000)">
+            <g id="Face" transform="translate(1953.000000, 2333.000000)">
+                <g id="ATL-Falcons-Logo-+-Some-News-Alert!-Mask" transform="translate(19.000000, 40.000000)">
+                    <g id="Group" transform="translate(80.000000, 319.000000)">
+                        <g id="background" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) ">
+                            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        </g>
+                        <g id="battery_x5F_4" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) translate(0.000000, 8.000000)" fill="#86DD00" fill-rule="nonzero">
+                            <rect id="Rectangle" x="12" y="4" width="16" height="8"></rect>
+                            <path d="M4,0 L4,4 L0,4 L0,12 L4,12 L4,16 L32,16 L32,0 L4,0 Z M6,14 L6,2 L30,2 L30,14 L6,14 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

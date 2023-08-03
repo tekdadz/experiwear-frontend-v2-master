@@ -1,0 +1,43 @@
+{
+  "apps": [
+    {
+      "name": "frontend",
+      "script": "server.js",
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "env_production": {
+        "NODE_ENV": "production"
+      }
+    }
+  ],
+  "deploy": {
+    "dev": {
+      "key": "~/.ssh/fansignals",
+      "user": "exp",
+      "host": [
+        "198.199.83.103"
+      ],
+      "ref": "origin/master",
+      "repo": "git@bitbucket.org:voxsyncteam/experiwear-frontend-v2.git",
+      "path": "/home/exp/frontend",
+      "pre-setup": "",
+      "post-setup": "git status; ls -la",
+      "post-deploy": "yarn install; yarn run pm2:restart:dev"
+    },
+    "prod": {
+      "key": "~/.ssh/experiwear",
+      "user": "exp",
+      "host": [
+        "157.230.191.95"
+      ],
+      "ref": "origin/production",
+      "repo": "git@bitbucket.org:voxsyncteam/experiwear-frontend-v2.git",
+      "path": "/home/exp/frontend",
+      "pre-setup": "",
+      "post-setup": "git status; ls -la",
+      "post-deploy": "yarn install; yarn run pm2:restart:prod"
+    }
+  }
+}
+

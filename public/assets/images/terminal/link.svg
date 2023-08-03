@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="15px" viewBox="0 0 37 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>link</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Storyboard" transform="translate(-2049.000000, -2394.000000)" stroke="#FFFFFF" stroke-width="3">
+            <g id="Face" transform="translate(1953.000000, 2333.000000)">
+                <g id="ATL-Falcons-Logo-+-Some-News-Alert!-Mask" transform="translate(19.000000, 40.000000)">
+                    <g id="link" transform="translate(79.000000, 23.000000)">
+                        <path d="M11.2037037,11 L5.60185185,11 C4.11614837,11 2.69129543,10.4205374 1.64074442,9.3890873 C0.590193411,8.35763722 0,6.95869069 0,5.5 L0,5.5 C0,2.46243388 2.5080345,0 5.60185185,0 L14.5648148,0 C17.6586322,0 20.1666667,2.46243388 20.1666667,5.5 L20.1666667,5.5" id="Path"></path>
+                        <path d="M21.7962963,0 L27.3981481,0 C30.4919655,0 33,2.46243388 33,5.5 L33,5.5 C33,8.53756612 30.4919655,11 27.3981481,11 L18.4351852,11 C15.3413678,11 12.8333333,8.53756612 12.8333333,5.5 L12.8333333,5.5" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
